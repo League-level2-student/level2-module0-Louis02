@@ -41,7 +41,7 @@ public class _01_RobotRace {
 		}
 
 		// 7. declare that robot the winner and throw it a party!
-System.out.println("the winner is " + winner + " robot");
+System.out.println("the winner is " + (winner + 1) +" robot");
 		// 8. try different races with different amounts of robots.
 
 		// 9. make the robots race around a circular track.
